@@ -1,0 +1,3 @@
+[submodule "CBasediOSApp"]
+	path = CBasediOSApp
+	url = git@github.com:richardjrossiii/CBasediOSApp.git
